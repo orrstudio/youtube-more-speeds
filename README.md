@@ -1,4 +1,4 @@
-# YouTube More Speeds
+# YouTube More Speeds v1.5
 Userscript that adds buttons under a YouTube video with more playback speeds.</br>
 Looks good with dark mode and light mode.</br>
 </br>
@@ -23,7 +23,7 @@ More info here if you are new to userscripts: [https://greasyfork.org/help/insta
 
 </br></br></br>
 
-# And 2 options for old version: 
+# And 2 options for old version v1.4: 
 </br>
 
 ![old-design-youtube-more-speeds](https://user-images.githubusercontent.com/65281943/212045165-f11b009e-bf65-447d-8ccc-f5ae2245fb1f.png)
