@@ -2,13 +2,13 @@
 Userscript that adds buttons under a YouTube video with more playback speeds.</br>
 Looks good with dark mode and light mode.</br>
 </br>
-
-![youtube-more-speeds-1-5-1](https://github.com/user-attachments/assets/446fb8bb-52ae-4ea4-bd6d-5867d70bc612)
-
-</br>
 Install as a userscript here: 
 
 [https://greasyfork.org/nl/scripts/421670-youtube-more-speeds](https://greasyfork.org/nl/scripts/421670-youtube-more-speeds)
+
+</br>
+
+![youtube-more-speeds-1-5-1](https://github.com/user-attachments/assets/446fb8bb-52ae-4ea4-bd6d-5867d70bc612)
 
 </br>
 or copy and past this script: 
