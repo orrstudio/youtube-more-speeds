@@ -8,4 +8,5 @@ Userscript that adds buttons under a YouTube video with more playback speeds.</b
 </br>
 
 You will need a userscript manager like [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Greasemonkey](https://addons.mozilla.org/nl/firefox/addon/greasemonkey/)
+</br>
 More info here if you are new to userscripts: [https://greasyfork.org/help/installing-user-scripts](https://greasyfork.org/help/installing-user-scripts)
