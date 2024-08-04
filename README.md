@@ -26,14 +26,14 @@ More info here if you are new to userscripts: [https://greasyfork.org/help/insta
 # And 2 options for old version v1.4: 
 </br>
 
-[![old-design-youtube-more-speeds](https://user-images.githubusercontent.com/65281943/212045165-f11b009e-bf65-447d-8ccc-f5ae2245fb1f.png)](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-2.js)
+## [youtube-more-speeds.user-1-4-2.js](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-2.js)
 
-[youtube-more-speeds.user-1-4-2.js](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-2.js)
+[![old-design-youtube-more-speeds](https://user-images.githubusercontent.com/65281943/212045165-f11b009e-bf65-447d-8ccc-f5ae2245fb1f.png)](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-2.js)
 
 </br>
 
-![youtube-more-speeds-1-4-2](https://github.com/user-attachments/assets/7ad86907-3e78-4e55-a9d7-4726bc979005)
+## [youtube-more-speeds.user-1-4-3.js](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-3.js)
 
-[youtube-more-speeds.user-1-4-3.js](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-3.js)
+[![youtube-more-speeds-1-4-2](https://github.com/user-attachments/assets/7ad86907-3e78-4e55-a9d7-4726bc979005)](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-3.js)
 
 </br>
