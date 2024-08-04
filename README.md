@@ -8,7 +8,7 @@ Install as a userscript here:
 
 </br>
 
-![youtube-more-speeds-1-5-1](https://github.com/user-attachments/assets/446fb8bb-52ae-4ea4-bd6d-5867d70bc612)
+[![youtube-more-speeds-1-5-1](https://github.com/user-attachments/assets/446fb8bb-52ae-4ea4-bd6d-5867d70bc612)](https://greasyfork.org/nl/scripts/421670-youtube-more-speeds)
 
 </br>
 or copy and past this script: 
