@@ -26,7 +26,7 @@ More info here if you are new to userscripts: [https://greasyfork.org/help/insta
 # And 2 options for old version v1.4: 
 </br>
 
-![old-design-youtube-more-speeds](https://user-images.githubusercontent.com/65281943/212045165-f11b009e-bf65-447d-8ccc-f5ae2245fb1f.png)
+[![old-design-youtube-more-speeds](https://user-images.githubusercontent.com/65281943/212045165-f11b009e-bf65-447d-8ccc-f5ae2245fb1f.png)](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-2.js)
 
 [youtube-more-speeds.user-1-4-2.js](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-2.js)
 
