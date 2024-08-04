@@ -13,25 +13,23 @@ You will need a userscript manager like [Tampermonkey](https://chrome.google.com
 </br>
 More info here if you are new to userscripts: [https://greasyfork.org/help/installing-user-scripts](https://greasyfork.org/help/installing-user-scripts)
 
+</br></br></br>
+
+# And 2 options for old version: 
 </br>
-and 2 options for old version: 
+
+![old-design-youtube-more-speeds](https://user-images.githubusercontent.com/65281943/212045165-f11b009e-bf65-447d-8ccc-f5ae2245fb1f.png)
+
 </br>
 
 [youtube-more-speeds.user-1-4-2.js](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-2.js)
 
 </br>
 
-![old-design-youtube-more-speeds](https://user-images.githubusercontent.com/65281943/212045165-f11b009e-bf65-447d-8ccc-f5ae2245fb1f.png)
-
-</br>
-option 3 is the old design and number of speed buttons (For this version you need to install the script: 
+![youtube-more-speeds-1-4-2](https://github.com/user-attachments/assets/7ad86907-3e78-4e55-a9d7-4726bc979005)
 
 </br>
 
 [youtube-more-speeds.user-1-4-3.js](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-3.js)
-
-</br>
-
-![youtube-more-speeds-1-4-2-2](https://github.com/user-attachments/assets/0d25861c-ded1-478f-8820-29a86fc411a4)
 
 </br>
