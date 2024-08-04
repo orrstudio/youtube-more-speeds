@@ -1,11 +1,24 @@
 # YouTube More Speeds
-Userscript that adds buttons under a YouTube video with more playback speeds.</br>Looks good with dark mode and light mode.</br></br>
+Userscript that adds buttons under a YouTube video with more playback speeds.</br>
+Looks good with dark mode and light mode.</br>
+</br>
 
 ![youtube-more-speeds-1-5-1](https://github.com/user-attachments/assets/446fb8bb-52ae-4ea4-bd6d-5867d70bc612)
 
 </br>
 Install as a userscript here: [https://greasyfork.org/nl/scripts/421670-youtube-more-speeds](https://greasyfork.org/nl/scripts/421670-youtube-more-speeds)
-</br></br>
+</br>
+</br>
 You will need a userscript manager like [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or [Greasemonkey](https://addons.mozilla.org/nl/firefox/addon/greasemonkey/)
 </br>
 More info here if you are new to userscripts: [https://greasyfork.org/help/installing-user-scripts](https://greasyfork.org/help/installing-user-scripts)
+
+</br>
+and 2 options for old version: [youtube-more-speeds.user-1-4-2.js](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-2.js)
+</br>
+![old-design-youtube-more-speeds](https://user-images.githubusercontent.com/65281943/212045165-f11b009e-bf65-447d-8ccc-f5ae2245fb1f.png)
+</br>
+option 3 is the old design and number of speed buttons (For this version you need to install the script: [youtube-more-speeds.user-1-4-3.js](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-3.js)
+</br>
+![youtube-more-speeds-1-4-2-2](https://github.com/user-attachments/assets/0d25861c-ded1-478f-8820-29a86fc411a4)
+</br>
