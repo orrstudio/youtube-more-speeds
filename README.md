@@ -23,7 +23,7 @@ More info here if you are new to userscripts: [https://greasyfork.org/help/insta
 
 </br></br></br>
 
-# And 2 options for old version v1.4: 
+# And 2 old versions for manual installation (v1.4): 
 </br>
 
 ## [youtube-more-speeds.user-1-4-2.js](https://github.com/orrstudio/youtube-more-speeds/blob/main/youtube-more-speeds.user-1-4-2.js)
